@@ -1,0 +1,14 @@
+
+:squid:S3010"#Remove this assignment of "driver".(ÁÜÑ¥
+tsquid:UselessImportCheck	"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8ğù¨Æš.
+zsquid:S3008"WRename this field "SEARCH_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¥åïÿÿÿÿÿ8¦ºÇÅš.
+†squid:S3008"cRename this field "SEARCH_FIELD_RESULT_PAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÈ·„üÿÿÿÿ8£ßÑÉš.
+psquid:UselessImportCheck"@Remove this unused import 'org.openqa.selenium.support.ui.Wait'.(‹ÇÓ™ùÿÿÿÿ8ğù¨Æš.
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(õ´—¶ıÿÿÿÿ8¤Á½Éš.
+Lsquid:S2209"5Change this instance-reference to a static reference.(ÁÜÑ¥
+~squid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ğù¨Æš.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(»¢Î8îÍéÉš.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(˜­½âøÿÿÿÿ8îÍéÉš.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—¾¦ˆ8îÍéÉš.
